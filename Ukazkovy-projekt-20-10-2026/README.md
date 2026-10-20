@@ -6,9 +6,9 @@ Ukázkový onboardingový projekt založený ve Freelu dne 20. 10. 2026.
 
 - **Freelo:** https://app.freelo.io/project/646640
 - **Měna:** USD
-- **Start:** 20. 10. 2026
-- **Kick-off:** 22. 10. 2026, čtvrtek
-- **Předání:** 19. 11. 2026
+- **Start:** 3. 11. 2026
+- **Kick-off:** 5. 11. 2026, čtvrtek
+- **Předání:** 3. 12. 2026
 
 ## Osoby
 
@@ -23,24 +23,24 @@ Ukázkový onboardingový projekt založený ve Freelu dne 20. 10. 2026.
 ### 1 Iniciace a analýza
 | Úkol | Priorita | Termín | Řešitel |
 |---|---|---|---|
-| Úvodní schůzka se zákazníkem (kick-off) | vysoká | 22. 10. 2026 | Martin Dvořák |
-| Analýza současného stavu a potřeb | vysoká | 25. 10. 2026 | Martin Dvořák |
-| Definice cílů a měřitelných KPI | vysoká | 27. 10. 2026 | Martin Dvořák |
-| Analýza stakeholderů | střední | 27. 10. 2026 | Martin Dvořák |
+| Úvodní schůzka se zákazníkem (kick-off) | vysoká | 5. 11. 2026 | Martin Dvořák |
+| Analýza současného stavu a potřeb | vysoká | 8. 11. 2026 | Martin Dvořák |
+| Definice cílů a měřitelných KPI | vysoká | 10. 11. 2026 | Martin Dvořák |
+| Analýza stakeholderů | střední | 10. 11. 2026 | Martin Dvořák |
 
 ### 2 Plánování a realizace
 | Úkol | Priorita | Termín | Řešitel |
 |---|---|---|---|
-| Harmonogram a milníky | vysoká | 30. 10. 2026 | Martin Dvořák |
-| Rozpočet a zdroje | střední | 30. 10. 2026 | Martin Dvořák |
-| Registr rizik | střední | 1. 11. 2026 | Martin Dvořák |
-| Realizace hlavních výstupů | vysoká | 9. 11. 2026 | Martin Dvořák |
+| Harmonogram a milníky | vysoká | 13. 11. 2026 | Martin Dvořák |
+| Rozpočet a zdroje | střední | 13. 11. 2026 | Martin Dvořák |
+| Registr rizik | střední | 15. 11. 2026 | Martin Dvořák |
+| Realizace hlavních výstupů | vysoká | 23. 11. 2026 | Martin Dvořák |
 
 ### 3 Kontrola a předání
 | Úkol | Priorita | Termín | Řešitel |
 |---|---|---|---|
-| Controlling a kontrola kvality | střední | 14. 11. 2026 | Martin Dvořák |
-| Předání výstupů a závěrečné vyhodnocení | vysoká | 19. 11. 2026 | Martin Dvořák |
+| Controlling a kontrola kvality | střední | 28. 11. 2026 | Martin Dvořák |
+| Předání výstupů a závěrečné vyhodnocení | vysoká | 3. 12. 2026 | Martin Dvořák |
 
 ## Veřejné odkazy na klíčové úkoly
 
